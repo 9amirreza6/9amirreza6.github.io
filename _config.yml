@@ -1,15 +1,15 @@
-site: Gesko
-title: Gesko
+site: YAR
+title: YAR
 description: >-
-  just a minimalist, personal blog
+  Just a personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
-  bio: just a minimalist, personal blog
+  name: Amirreza
+  bio: A data scientist
   username: p0wex # general username
   github: p0wex # github username
   twitter: P0Wex # twitter username
