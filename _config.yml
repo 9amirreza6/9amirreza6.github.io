@@ -1,12 +1,12 @@
-site: YAR
-title: YAR
+site: Gesko
+title: Gesko
 description: >-
-  Data & AI
+  just a minimalist, personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Rome
 repo: https://github.com/p0wex/Gesko # site repo [optional]
-data-theme: light # default theme "dark" | "light"
+data-theme: dark # default theme "dark" | "light"
 
 author:
   name: p0wex
